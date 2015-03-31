@@ -1,0 +1,18 @@
+In Module 4 Exercise 2:
+Essentially, I had to allow the program to create the number of topics I picked. 
+I picked 10 topics which is the default, and i ran into a problem
+Basically, the program was not creating a new file because i did not divide the tool and CND file from my downloads and other folders.
+After dividing the program and CND file from my other documents, the HTML file was easily located and the program divided the topics.
+In looking at the HTML the following topics:
+1. general men inidans arrived st received west inform for extract
+2. south miles colony river governor wales cape land company colonial
+3.	man time island people port called good natives crew short
+4.	country house time state place government give made considerable large
+5.	states united british kingdom americans american inform war great state
+6.	captain king vessel chief people immediately son board voyage regiment
+7.	mr present public made committee bill subject gentlemen meeting lord
+8.	mr town long england young children ship passengers day letter
+9.	country emigration great trade canada land upper labour part make
+10.	number years ditto persons government emigrants june settlers good society
+
+The topics shown are what the program output to me after I imput the number of topics.
