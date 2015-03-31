@@ -16,3 +16,7 @@ In looking at the HTML the following topics:
 10.	number years ditto persons government emigrants june settlers good society
 
 The topics shown are what the program output to me after I imput the number of topics.
+After checking the CND file with 10 topics, i tried 13 to see what happened:
+All the topics from the original 10 topics were different, but some of the words like ditto and man, ships etc, plus the new 3 topics.
+
+Again when returning back to the 10 topics, there are similar words but nothing is ever the same as the first original 10 topics
